@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "keyverifier placeholder"
+rootProject.name = "keyverifiers placeholder"
 include(":app")
